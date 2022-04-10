@@ -64,9 +64,8 @@ npm start
 - [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://pt-br.reactjs.org)
 
 
-## Desenvolvedores/Contribuintes :octocat:
+## Desenvolvedores :octocat:
 
-Liste o time responsável pelo desenvolvimento do projeto
 | [<img src="https://avatars.githubusercontent.com/u/91327153?v=4" width=115><br><sub>Vinicius Souza</sub>](https://github.com/Vinicius-Souza-Araujo) |  [<img src="https://avatars.githubusercontent.com/u/91341241?v=4" width=115><br><sub>Paula Barboza</sub>](https://github.com/Paula-Barboza) |  [<img src="https://avatars.githubusercontent.com/u/91340426?v=4" width=115><br><sub>Rafael Rossi</sub>](https://github.com/rafaellrossi) | [<img src="https://avatars.githubusercontent.com/u/88278315?v=4" width=115><br><sub>Rafaela Mascarenhas</sub>](https://github.com/RafaelaMascarenhas) | [<img src="https://avatars.githubusercontent.com/u/91344578?v=4" width=115><br><sub>Wesley da Silva</sub>](https://github.com/wesleww) | [<img src="https://avatars.githubusercontent.com/u/88379213?v=4" width=115><br><sub>Pedro Bicas</sub>](https://github.com/PedroBicas) |
 | :---: | :---: | :---: | :---: | :---: | :---:
 
