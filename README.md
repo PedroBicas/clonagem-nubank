@@ -26,7 +26,7 @@
 
 ## Layout e Deploy da Aplicação :dash:
 
-> Link da aplicação: 
+> Link da aplicação: [WSBank](https://whimsical-moxie-e838c3.netlify.app) 
 
 <img width="400px" height="200px" src="https://cdn.discordapp.com/attachments/905749782721597455/962848105764646912/unknown.png" alt="Imagem Site"> <img width="400px" height="200px" src="https://cdn.discordapp.com/attachments/905749782721597455/962848145199489074/unknown.png" alt="Imagem Site">  <img width="400px" height="200px" src="https://cdn.discordapp.com/attachments/905749782721597455/962848183698989077/unknown.png" alt="Imagem Site"> 
 
