@@ -1,4 +1,4 @@
-<h1>Clonagem Nubank</h1>
+<h1>WSBank</h1>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
@@ -21,7 +21,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Projeto feito com fins academicos, da instituição Senai Suiço Brasileiro, da materia PWFE (FrontEnd), com o objetivo de fazer uma clonagem da UI da empresa Nubank, onde utilamos o React como biblioteca de desenvolvimento.
+  Projeto feito com fins academicos, da materia PWFE (FrontEnd), com o objetivo de fazer uma representação da UI da empresa Nubank, onde utilamos o React como biblioteca de desenvolvimento.
 </p>
 
 ## Layout e Deploy da Aplicação :dash:
